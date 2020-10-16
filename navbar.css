@@ -1,9 +1,9 @@
-#mainMenu {
+#topNav {
 	margin:10px;
 	width:900px;
 	font-family: sans-serif;
 }
-#mainMenu li {
+#topNav li {
 	display:block;
 	width:120px;
 	float:left;
@@ -11,7 +11,7 @@
 	border:1px solid #000;
 }
 
-#mainMenu a {
+#topNav a {
 	display:block;
 	padding:3px;
 	text-decoration:none;
@@ -19,7 +19,7 @@
 	color:#009;
 }
 
-#mainMenu a:hover {
+#topNav a:hover {
 	background-color:#009;
 	color:#fff;
 }
