@@ -1,5 +1,5 @@
-body{
-  margin: 0px;
+ol,ul {
+	list-style: none;
 }
 #mainMenu {
 	margin: 10px;
