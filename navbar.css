@@ -1,9 +1,9 @@
-#topNav {
+.topNav {
 	margin:10px;
 	width:900px;
 	font-family: sans-serif;
 }
-#topNav li {
+.topNav li {
 	display:block;
 	width:120px;
 	float:right;
@@ -11,7 +11,7 @@
 	border:1px solid #000;
 }
 
-#topNav a {
+.topNav a {
 	display:block;
 	padding:3px;
 	text-decoration:none;
@@ -19,10 +19,10 @@
 	color:#009;
 }
 
-#topNav a:hover {
+.topNav a:hover {
 	background-color:#009;
 	color:#fff;
 }
-#topNav ul {
+.topNav ul {
   background-color: #dddddd;
 }
