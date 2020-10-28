@@ -1,1 +1,47 @@
+ ul.topNav{
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              overflow: hidden;
+              background-color: #333;
+            }
+
+           .topNav li {
+              float: left;
+            }
+
+           .topNav li a {
+              display: block;
+              color: white;
+              text-align: center;
+              padding: 14px 16px;
+              text-decoration: none;
+            }
+
+           .topNav li a:hover {
+              background-color: #111;
+            }
+            .active {
+              background-color: #4CAF50;
+            }
+
+	 ul.menuNav {
+  		list-style-type: none;
+  		margin: 0;
+		padding: 0;
+		width: 200px;
+  		background-color: #f1f1f1;
+	    }
+
+	.menuNav li a {
+  		display: block;
+  		color: #000;
+  		padding: 8px 16px;
+  		text-decoration: none;
+	     }
+
+	.menuNav li a:hover {
+  		background-color: #555;
+  		color: white;
+	     }
 
